@@ -1,5 +1,5 @@
 
-# Test IA Database
+# IA Database
 
 This project demonstrates the integration of [LangChain](https://www.langchain.com/) with a SQLite database using TypeORM and OpenAI's GPT models for structured querying and natural language processing. It provides a system to transform user queries into SQL commands and return meaningful results.
 
